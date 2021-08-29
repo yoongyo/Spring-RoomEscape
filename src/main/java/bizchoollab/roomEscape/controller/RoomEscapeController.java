@@ -28,7 +28,6 @@ public class RoomEscapeController {
     static class RoomEscapeDto {
         private Long roomEscapeId;
         private String name;
-
     }
 
 //    @PostMapping("/{name}")
